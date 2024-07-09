@@ -1,0 +1,13 @@
+C:\Projects\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Projects\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Projects\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
