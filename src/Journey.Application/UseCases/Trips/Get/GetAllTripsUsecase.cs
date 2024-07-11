@@ -1,5 +1,4 @@
-﻿using Journey.Communication.Requests;
-using Journey.Communication.Responses;
+﻿using Journey.Communication.Responses;
 using Journey.Infrastructure;
 
 namespace Journey.Application.UseCases.Trips.Get

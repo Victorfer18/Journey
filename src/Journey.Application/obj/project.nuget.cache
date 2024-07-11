@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7QK3yXIkCF8=",
+  "dgSpecHash": "06+8AN6PDtw=",
   "success": true,
   "projectFilePath": "C:\\Projects\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

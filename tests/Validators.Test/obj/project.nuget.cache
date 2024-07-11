@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1fX/DDj6T0M=",
+  "dgSpecHash": "c6u9X6+hKzA=",
   "success": true,
   "projectFilePath": "C:\\Projects\\Journey\\tests\\Validators.Test\\Validators.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
