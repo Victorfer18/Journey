@@ -7,6 +7,7 @@ Este projeto é uma API RESTful desenvolvida em C# utilizando o Swagger para doc
 - Criação de endpoints RESTful.
 - Documentação automática com Swagger.
 - Estrutura simples e modular para facilitar a expansão e manutenção.
+- Aplicação de conceitos de Clean Code, Clean Architecture e Domain-Driven Design (DDD) para garantir um código mais limpo, organizado e alinhado com as necessidades do domínio.
 
 ## Tecnologias Utilizadas
 
