@@ -68,7 +68,7 @@ Sinta-se à vontade para contribuir com o projeto através de pull requests. Tod
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## Agradecimentos
 
